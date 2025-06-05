@@ -66,6 +66,8 @@ max_output_tokens = 4096
 ```bash
 pytest test_scraper.py -v
 ```
+![image](https://github.com/user-attachments/assets/3aa3a66f-315e-461e-a035-1c48503dae05)
+
 Shows green (all tests pass).
 
 ## Tech Stack
