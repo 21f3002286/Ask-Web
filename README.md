@@ -1,6 +1,7 @@
 # Ask the Web 🔍
 
 A simple web app that searches the internet and answers questions using AI.
+*Loom Video link: https://www.loom.com/share/f6ec847ca25c4a66bb89fbd50b5a75df?sid=09cdf7ba-438d-49a1-883d-14bdca2dfe9d*
 
 ## What it does
 
